@@ -172,7 +172,7 @@ while True:
     else:
         print("\t\tНадо ввести число от 1-го до 5-ти!!!")
 
-
+    print("Hello")
 
 
 
